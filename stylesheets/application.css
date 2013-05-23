@@ -98,10 +98,10 @@ body {
   font: Helvetica;
   font-weight: bold;
   font-size: 30px;
-  text-align: center;
 }
 
 .title, .contacts {
+  text-align: center;
   width: 400px;
   margin: 0 auto;
 }
@@ -109,4 +109,8 @@ body {
 .title {
   padding: 30px 0;
   margin-bottom: 400px;
+}
+
+.social {
+  padding: 180px 0 0 45px;
 }
